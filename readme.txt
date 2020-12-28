@@ -4,3 +4,5 @@ Git now is free software.
 Creating a new branch is  and quick.
 
 master
+
+merge
