@@ -15,4 +15,8 @@ jack is working  operate bugs ok
 jack is working
 
 is running ,get bug
-1
+git diff --staged
+
+diff
+
+bugs
