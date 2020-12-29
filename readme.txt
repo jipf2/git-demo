@@ -20,3 +20,5 @@ git diff --staged
 diff
 
 bugs
+
+create bug
